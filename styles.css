@@ -13,6 +13,14 @@ top: 186px;
 background: #D9D9D9;
 border-radius: 10px;
 margin: 6px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 77px;
+text-align: right;
+padding:6px;
+overflow: auto;
 }
 
 
