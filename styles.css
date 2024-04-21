@@ -20,7 +20,8 @@ font-size: 32px;
 line-height: 77px;
 text-align: right;
 padding:6px;
-overflow: auto;
+overflow: scroll;
+
 }
 
 
